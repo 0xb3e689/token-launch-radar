@@ -1,0 +1,8 @@
+{
+  "name": "preflight-token-radar",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Preflight — a token launch radar for make.fun's token-radar-01 bounty",
+  "license": "MIT"
+}
